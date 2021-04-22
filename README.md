@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @htd-tstepien
+- 👀 I’m interested in astronomy, skateboarding, traveling
+- 🌱 I’m currently learning NodeJS
+- 📫 How to reach me - for example on [linkedin](https://www.linkedin.com/in/tymoteusz-stepien/) or [facebook](https://www.facebook.com/white.leash)
